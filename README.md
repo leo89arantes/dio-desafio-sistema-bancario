@@ -1,6 +1,6 @@
 # Desafio DIO
 
-
+### Potência Tech powered by iFood | Ciência de Dados
 
 Nesse desafio criamos um programa de conta de conta bancária que oferece as opções de depósito, saque e extrato.
 Ele mantém o saldo, limite de saque e extrato atualizados. O usuário pode realizar depósitos, desde que o valor 
